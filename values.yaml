@@ -1,4 +1,4 @@
 deployment:
   replicas: 2
   imageVersion: nginx
-  version: alpine3.24-slim
+  version: 1.31.6-alpine3.24-slim
